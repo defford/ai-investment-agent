@@ -38,4 +38,4 @@ streamlit run investment_agent.py
     - Fetch the latest company news and analyst recommendations
     - Gather comprehensive company information
     - Generate a detailed comparison report using the GPT-4 language model
-- The generated report will be displayed in the app, providing you with valuable insights and analysis to guide your investment decisions.
+- The generated report will be displayed in the app, providing you with valuable insights and analysis to guide your investment decisions.# ai_investment_agent
